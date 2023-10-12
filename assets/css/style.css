@@ -262,7 +262,7 @@ font-weight: lighter;
     font-size: 1.2rem;
     line-height: 1.5rem;
     text-indent: 2rem;
-    text-align: left;
+    text-align: justify;
 }
 
 .card-close {
